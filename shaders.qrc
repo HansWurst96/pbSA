@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/icosahedron.frag</file>
+        <file>shaders/icosahedron.vert</file>
+        <file>shaders/skybox.frag</file>
+        <file>shaders/skybox.vert</file>
+    </qresource>
+</RCC>
